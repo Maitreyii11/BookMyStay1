@@ -1,0 +1,2 @@
+Single Room:10
+Suite Room:4
